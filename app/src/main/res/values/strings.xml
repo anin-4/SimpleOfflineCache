@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleCachingExample</string>
+    <string name="restaurant_image">Restaurant_image</string>
+</resources>
